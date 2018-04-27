@@ -17,9 +17,9 @@ This application can do a couple of things
 - Search all items for a field of a specific value and list those entries
 
 To do that, we have the following commands
-Listing fields -> **fields** OR **fields item**
-Listing searchable items -> **items**
-Searching -> **search item:field:value**. The item entry is optional. If no item is specified, the application will search all items for the field/value
+- Listing fields -> **fields** OR **fields item**
+- Listing searchable items -> **items**
+- Searching -> **search item:field:value**. The item entry is optional. If no item is specified, the application will search all items for the field/value
 
 
 ## Assumptions
